@@ -3,4 +3,4 @@ A modular C++ application designed to test LCD displays on Linux-kernel-based em
 
 Since tests are defined in using a modular abstraction provided by the source code, a single "build" may implement multiple tests for multiple devices (e.g. platform or product variants).
 
-Designed with minimal runtime dependencies in mind.
+Designed with "absolute minimal runtime dependencies" in mind.
